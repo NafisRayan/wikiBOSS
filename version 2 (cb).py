@@ -63,5 +63,4 @@ def chatbot():
             else:
                 print("Chatbot: I'm sorry, I couldn't find information on that topic.")
 
-if __name__ == "__main__":
-    chatbot()
+chatbot()
